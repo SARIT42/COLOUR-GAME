@@ -8,7 +8,4 @@ In each try, the user gets 30 seconds and has to guess as many colours as he can
 For each CORRECT guess, the user gets a +2 POINTS. For each WRONG / MISSED guess, the user gets a -2 POINTS.
 
 
-https://user-images.githubusercontent.com/77446629/132456750-40e508af-a9a3-4517-8379-ea24f6736299.mp4
-
-
 The final score is showed after the 30 seconds time has run out.
